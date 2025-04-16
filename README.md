@@ -12,4 +12,4 @@ Toggle Develoepr Mode.
 
 Add files to page.
 
-Go to desired page and click on the qr extension in chrome and the qr will display.# qr-extension
+Go to desired page and click on the qr extension in chrome and the qr will display.
