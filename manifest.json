@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "QR Code Generator",
+  "version": "1.0",
+  "description": "Generate a QR code for the current tab URL directly from your browser.",
+  "permissions": ["activeTab", "storage"],
+  "host_permissions": ["<all_urls>"] ,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
