@@ -8,7 +8,7 @@ Download repository.
 
 Go to chrome://extensions/ in Google Chrome.
 
-Toggle Develoepr Mode.
+Toggle Developer Mode.
 
 Add files to page.
 
